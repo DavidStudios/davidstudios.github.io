@@ -1,9 +1,9 @@
-@import url('https://dsans.davidstudios.uk/css2');
+ @import url('https://dsans.davidstudios.uk/css2.css'); /* Font importer */
 
 body {
   background-color: #151618;
   color: whitesmoke;
-  font-family: 'DSans Regular', sans-serif;
+  font-family: 'DSans Regular', sans-serif; /* Use DSans in the website, obviously */
 }
 
 samp { 
