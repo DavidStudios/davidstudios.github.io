@@ -14,7 +14,7 @@ samp {
   color: white;
 }
 
-textarea {
+.typetester {
  font-family: "DSans Regular", sans-serif;
  background-color: #222;
  border-radius: 10px;
