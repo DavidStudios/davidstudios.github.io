@@ -6,6 +6,10 @@ body {
   font-family: 'DSans Regular', sans-serif; /* Use DSans in the website, obviously */
 }
 
+input {
+      font-family: 'DSans Regular', sans-serif;
+}
+
 samp { 
   font-family: "Segoe UI", monospace, sans-serif;
   background-color: #444;
