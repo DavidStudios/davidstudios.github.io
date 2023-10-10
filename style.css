@@ -8,6 +8,7 @@ body {
 
 input {
       font-family: 'DSans Regular', sans-serif;
+   border-radius:12px;background-color:#111;color:white
 }
 
 samp { 
